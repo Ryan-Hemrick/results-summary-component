@@ -1,5 +1,5 @@
 /* ========================
-Root Variables
+Custom Properties
 =========================== */
 :root {
   --clr-primary-red: hsl(0, 100%, 67%);
@@ -24,7 +24,6 @@ Root Variables
 
   --ff-HankenGrotesk: 'Hanken Grotesk', Helvetical, Arial, sans-serif;
 }
-
 
 
 /* ========================
@@ -101,6 +100,7 @@ button {
     flex: 1;
   }
 }
+
 
 /* ========================
 Font Styles
@@ -197,7 +197,6 @@ Result Section Styles
     padding: 0 1rem;
   }
 }
-
 
 
 /* ========================

@@ -27,7 +27,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ![](./screenshot.png)
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://dynamic-froyo-b63804.netlify.app
 
 
 ## My process
